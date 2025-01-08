@@ -1,0 +1,92 @@
+body{
+	background-color: lightblue;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+.2_h1{
+	color: red;
+	text-align: center;
+}
+
+
+p {
+  color: red;
+  text-align: center;
+} 
+
+p {
+  text-align: center;
+  color: red;
+} 
+
+p {
+  text-align: center;
+  color: red;
+} 
+
+p {
+  color: red;
+} 
+
+body {
+  background-image: url("paper.gif");
+}
+
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;}
+
+p.one {
+  border-style: solid;
+  border-width: 5px;
+}
+
+p.two {
+  border-style: solid;
+  border-width: medium;
+}
+
+p.three {
+  border-style: dotted;
+  border-width: 2px;
+}
+
+p.four {
+  border-style: dotted;
+  border-width: thick;
+}
+
+p.five {
+  border-style: double;
+  border-width: 15px;
+}
+
+p.six {
+  border-style: double;
+  border-width: thick;
+}
+
+p {
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+}
+
+p.round3 {
+  border: 2px solid red;
+  border-radius: 12px;
+  padding: 5px;
+}
+
